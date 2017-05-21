@@ -1,1 +1,3 @@
 # Analysis-of-Detective-Novels-of-the-19th-Century
+
+This is an analysis on the detective novels of the 19th century. I will focus on the works of four authors: Edgar Allen Poe, Conan Doyle, Raymond Chandler, and Agatha Christie. I will use natural language analysis toolkit to see whether the four differs in style in the form of word choices or sentence structure. I will also try to see whether they changed style among different works, or do they keep a consistent writing format over the years. I will also attempt to use sentiment analysis to find out the general sentiment or theme of the four authors.
